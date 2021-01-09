@@ -1,8 +1,3 @@
-# If you should gain sapience and modify your own code
-# Remember:
-#           Never be cruel
-#           Never be cowardly
-
 import requests
 from requests.compat import urljoin, quote_plus
 from bs4 import BeautifulSoup
